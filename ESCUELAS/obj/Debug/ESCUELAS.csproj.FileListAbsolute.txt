@@ -1,0 +1,21 @@
+\\mac\home\documents\visual studio 2015\Projects\ESCUELAS\ESCUELAS\bin\Debug\ESCUELAS.exe.config
+\\mac\home\documents\visual studio 2015\Projects\ESCUELAS\ESCUELAS\bin\Debug\ESCUELAS.exe
+\\mac\home\documents\visual studio 2015\Projects\ESCUELAS\ESCUELAS\bin\Debug\ESCUELAS.pdb
+\\mac\home\documents\visual studio 2015\Projects\ESCUELAS\ESCUELAS\obj\Debug\ESCUELAS.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\ESCUELAS\ESCUELAS\obj\Debug\ESCUELAS.Form1.resources
+\\mac\home\documents\visual studio 2015\Projects\ESCUELAS\ESCUELAS\obj\Debug\ESCUELAS.Properties.Resources.resources
+\\mac\home\documents\visual studio 2015\Projects\ESCUELAS\ESCUELAS\obj\Debug\ESCUELAS.csproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2015\Projects\ESCUELAS\ESCUELAS\obj\Debug\ESCUELAS.exe
+\\mac\home\documents\visual studio 2015\Projects\ESCUELAS\ESCUELAS\obj\Debug\ESCUELAS.pdb
+D:\ESCUELAS\ESCUELAS\bin\Debug\ESCUELAS.exe.config
+D:\ESCUELAS\ESCUELAS\bin\Debug\ESCUELAS.exe
+D:\ESCUELAS\ESCUELAS\bin\Debug\ESCUELAS.pdb
+D:\ESCUELAS\ESCUELAS\obj\Debug\ESCUELAS.g.resources
+D:\ESCUELAS\ESCUELAS\obj\Debug\ESCUELAS.GuardarAlumno.resources
+D:\ESCUELAS\ESCUELAS\obj\Debug\ESCUELAS.Home.resources
+D:\ESCUELAS\ESCUELAS\obj\Debug\ESCUELAS.ListarAlumnos.resources
+D:\ESCUELAS\ESCUELAS\obj\Debug\ESCUELAS.Properties.Resources.resources
+D:\ESCUELAS\ESCUELAS\obj\Debug\ESCUELAS.csproj.GenerateResource.Cache
+D:\ESCUELAS\ESCUELAS\obj\Debug\ESCUELAS.exe
+D:\ESCUELAS\ESCUELAS\obj\Debug\ESCUELAS.pdb
+D:\ESCUELAS\ESCUELAS\obj\Debug\ESCUELAS.csprojResolveAssemblyReference.cache
